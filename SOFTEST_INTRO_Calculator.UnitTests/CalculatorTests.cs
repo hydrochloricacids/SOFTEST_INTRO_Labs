@@ -99,7 +99,7 @@ public class CalculatorTests
     // Divide
 
     // Normal, zero numerator and negative divisor
-    [TestCase(1, 2, 0.6)]
+    [TestCase(1, 2, 0.5)]
     [TestCase(0, 15, 0)]
     [TestCase(15, -3, -5)]
     public void Divide_ValidInputs_ReturnsQuotient(
