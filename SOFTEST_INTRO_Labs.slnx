@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SOFTEST_INTRO_Calculator.AcceptanceTests/SOFTEST_INTRO_Calculator.AcceptanceTests.csproj" />
+  <Project Path="SOFTEST_INTRO_Calculator.UnitTests/SOFTEST_INTRO_Calculator.UnitTests.csproj" />
+  <Project Path="SOFTEST_INTRO_Calculator/SOFTEST_INTRO_Calculator.csproj" />
+</Solution>
