@@ -2,5 +2,7 @@
   <Project Path="SOFTEST_INTRO_Calculator.AcceptanceTests/SOFTEST_INTRO_Calculator.AcceptanceTests.csproj" />
   <Project Path="SOFTEST_INTRO_Calculator.IntegrationTests/SOFTEST_INTRO_Calculator.IntegrationTests.csproj" />
   <Project Path="SOFTEST_INTRO_Calculator.UnitTests/SOFTEST_INTRO_Calculator.UnitTests.csproj" />
+  <Project Path="SOFTEST_INTRO_Calculator.Web/SOFTEST_INTRO_Calculator.Web.csproj" />
+  <Project Path="SOFTEST_INTRO_Calculator.WebUiTests/SOFTEST_INTRO_Calculator.WebUiTests.csproj" />
   <Project Path="SOFTEST_INTRO_Calculator/SOFTEST_INTRO_Calculator.csproj" />
 </Solution>
